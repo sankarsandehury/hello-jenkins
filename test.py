@@ -1,1 +1,1 @@
-print("hello python jenkins auto......")
+print("hello python jenkins auto update......")
